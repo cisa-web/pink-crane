@@ -37,6 +37,7 @@ sections:
         image: /images/gordon-norman.png
         image_alt: Contentful logo
         image_align: center
+        title: 'Michel '
       - type: grid_item
         template: grid_item
         image: images/logo-2.svg
