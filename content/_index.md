@@ -38,6 +38,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         title: Michel
+        title_align: center
       - type: grid_item
         template: grid_item
         image: images/logo-2.svg
